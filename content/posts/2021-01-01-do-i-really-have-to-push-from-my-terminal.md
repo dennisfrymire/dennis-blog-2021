@@ -3,7 +3,7 @@ template: post
 title: Do I really have to push from my terminal?
 slug: push-terminal
 socialImage: /media/image-4.jpg
-draft: true
+draft: false
 date: 2021-01-01T23:12:29.614Z
 description: Another test.
 category: Blogging
