@@ -3,7 +3,7 @@ template: post
 title: This is a Test Blog
 slug: test-blog
 socialImage: /media/dennis_cool.jpg
-draft: true
+draft: false
 date: 2021-01-01T19:40:40.124Z
 description: This is a test blog to see out it looks.
 category: Blogging
