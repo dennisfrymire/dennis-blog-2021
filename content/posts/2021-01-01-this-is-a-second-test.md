@@ -3,7 +3,7 @@ template: post
 title: This is a second test
 slug: second-test
 socialImage: /media/gutenberg.jpg
-draft: true
+draft: false
 date: 2021-01-01T20:06:01.908Z
 description: What will happen here.
 category: Blogging
