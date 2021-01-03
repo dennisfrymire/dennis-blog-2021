@@ -3,7 +3,7 @@ template: post
 title: Post...then wait a few minutes.
 slug: post-wait
 socialImage: /media/image-2.jpg
-draft: true
+draft: false
 date: 2021-01-03T11:43:08.498Z
 description: Why isn't this working?
 category: Blogging
