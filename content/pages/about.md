@@ -9,4 +9,4 @@ I'm a web developer, transitioning from a previous career in real estate sales a
 
 **Now:**
 
-I am currently in fellowship as a full-stack developer at the National Democratic Training Committee.
+I am currently in fellowship as a full-stack developer at the [National Democratic Training Committee](https://www.traindemocrats.org).
